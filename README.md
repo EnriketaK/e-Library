@@ -1,5 +1,4 @@
-Me ekzekutimin e programit, userit i kerkohet te shtoje nje liber duke i kerkuar titullin, autorin, pershkrimin, daten e publikimit, nr e faqeve, zhanerin & ISBN. 
-Useri pyetet nese do ta vendose kete liber  te sapo shtuar ne databaze ne nje nga 3 raftet: To read, Reading ose Read. Nese ai vendos ta shtoje tek Reading, do i kerkohet gjithashtu nr i faqes ku useri po lexon tek libri aktualisht. Nese ai vendos ta shtoje tek Read, i kerkohet ratin nga 1 deri ne 5 si dhe nje Review. Kjo ndodh derisa user nuk do me te shtoje libra, ku me pas i paraqesim disa komanda. 
+E-Library eshte nje program i krijuar me lista dy drejtimore, qe synon te ruaje nje databaze me libra te shtuara nga perdoruesi, ti afishoje raftet e tij, te bej kerkimin e nje libri ne kete databaze si dhe ti fshije. 
 
 
 ![Picture6](https://user-images.githubusercontent.com/57449723/142642005-1554783c-f842-44a4-bf27-342e16b6976d.png)
