@@ -1,5 +1,4 @@
-E-Library eshte nje program i krijuar me lista dy drejtimore, qe synon te ruaje nje databaze me libra te shtuara nga perdoruesi, ti afishoje raftet e tij, te bej kerkimin e nje libri ne kete databaze si dhe ti fshije. 
-
+	Built a program that creates a database of books in running time where users can search, sort and delete.
 
 ![Picture6](https://user-images.githubusercontent.com/57449723/142642005-1554783c-f842-44a4-bf27-342e16b6976d.png)
 ![Picture1](https://user-images.githubusercontent.com/57449723/142642014-59f91508-9dce-4f2d-97e7-71f734f792f0.png)
